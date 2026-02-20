@@ -9,6 +9,11 @@
 # 🕶️ $ whoami
 
 ```bash
+> access granted
+> welcome to my profile
+```
+
+```bash
 > Yuri 
 > ADS Student
 > Cybersecurity Focused
@@ -81,7 +86,3 @@ Segurança não é sobre invadir — é sobre proteger.
 
 ---
 
-```bash
-> access granted
-> welcome to my profile
-```
