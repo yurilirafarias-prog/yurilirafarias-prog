@@ -9,7 +9,7 @@
 # 🕶️ $ whoami
 
 ```bash
-> Yuri Carneiro
+> Yuri 
 > ADS Student
 > Cybersecurity Focused
 > Ethical Hacker
