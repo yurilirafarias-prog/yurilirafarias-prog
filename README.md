@@ -37,11 +37,23 @@ Segurança não é sobre invadir — é sobre proteger.
 
 ---
 
-## 📊 $ stats
+## 📊 $ system_stats.exe
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME\&show_icons=true\&theme=radical\&bg_color=000000\&title_color=00FF00\&icon_color=00FF00\&text_color=00FF00)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME\&layout=compact\&theme=radical\&bg_color=000000\&title_color=00FF00\&text_color=00FF00)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yurilirafarias-prog&show_icons=true&theme=radical&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=ffffff&border_color=00FF00&cache_seconds=1800" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurilirafarias-prog&layout=compact&theme=radical&bg_color=0d1117&title_color=00FF00&text_color=ffffff&border_color=00FF00&cache_seconds=1800" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com?user=yurilirafarias-prog&theme=dark&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&border=00FF00&cache_seconds=1800" />
+
+</div>
 
 ---
 
