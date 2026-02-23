@@ -52,7 +52,6 @@ Segurança não é sobre invadir — é sobre proteger.
 
 </div>
 
-<br>
 
 <div align="center">
 
